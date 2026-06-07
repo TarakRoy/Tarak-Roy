@@ -1,6 +1,6 @@
 # Hello Everyone 👋
 
-I'm Tarak Roy, a Business Analytics graduate with 5+ years of experience in data analysis, business intelligence, reporting, and process improvement across technology, hospitality, and operations.
+I'm Tarak Roy, a Business Analytics graduate with 5+ years of experience in data analysis, business intelligence, reporting, and process improvement across technology, hospitality, Consulting and operations.
 
 ## 👨‍💼 About Me
 
