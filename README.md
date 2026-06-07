@@ -33,5 +33,4 @@ This GitHub profile contains projects focused on:
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/tarak-r-89165721b/
 - Email: swayamtarak121@gmail.com
