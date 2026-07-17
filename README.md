@@ -2,6 +2,14 @@
 
 I'm Tarak Roy, a Business Analytics graduate with 5+ years of experience in data analysis, business intelligence, reporting, and process improvement across technology, hospitality, Consulting and operations.
 
+Experience across systems analysis, business operations, business consulting, reporting, and data analytics. I've worked with global stakeholders to analyse business processes, support enterprise IT operations, improve service delivery, and turn data into actionable business insights.
+
+Skilled in requirements elicitation, BRD/FRD/SRD documentation, stakeholder management, process improvement,  KPI reporting, and Agile ways of working, with hands-on experience in SQL, Python, Power BI, Excel, ServiceNow, Nexthink Analytics, JIRA, and Confluence.
+
+I enjoy solving business problems by combining analytical thinking with technology and am always keen to learn, collaborate, and deliver meaningful business outcomes.
+
+
+
 ## 👨‍💼 About Me
 
 - 📊 Interested in Business Analysis, Data Business Analysis, Business Intelligence, and Analytics
